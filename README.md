@@ -4,7 +4,7 @@ A fully functional AI SaaS application built with the PERN stack
 featuring subscription billing and 6 AI-powered tools.
 
 ## 🚀 Live Link
-[Quick AI](https:///)
+[Quick AI](https://quick-ai-ai-saas-platform-sigma.vercel.app/)
 
 ## 🎬 Demo Video
 [Watch here](https://drive.google.com/file/d/1b9ks3cvVoc_RcXoMTZR_rq5RePlqJDUi/view?usp=sharing/)
